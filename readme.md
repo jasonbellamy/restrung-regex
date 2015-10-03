@@ -24,7 +24,7 @@ These are the current public functions this library supports.
 - truncate
 - surround
 - [ltrim](src/ltrim.js)
-- trim
+- [trim](src/trim.js)
 - [rtrim](src/rtrim.js)
 - clean
 
