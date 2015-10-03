@@ -26,7 +26,7 @@ These are the current public functions this library supports.
 - [ltrim](src/ltrim.js)
 - [trim](src/trim.js)
 - [rtrim](src/rtrim.js)
-- clean
+- [clean](src/clean.js)
 
 ### Type
 
