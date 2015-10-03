@@ -23,7 +23,7 @@ These are the current public functions this library supports.
 - uncapitalize
 - truncate
 - surround
-- ltrim
+- [ltrim](src/ltrim.js)
 - trim
 - rtrim
 - clean
