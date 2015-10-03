@@ -25,7 +25,7 @@ These are the current public functions this library supports.
 - surround
 - ltrim
 - trim
-- rtrim
+- [rtrim](src/rtrim.js)
 - clean
 
 ### Type
