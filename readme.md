@@ -21,7 +21,7 @@ These are the current public functions this library supports.
 - swapCase
 - capitalize
 - uncapitalize
-- truncate
+- [truncate](src/truncate.js)
 - surround
 - [ltrim](src/ltrim.js)
 - [trim](src/trim.js)
