@@ -22,7 +22,7 @@ These are the current public functions this library supports.
 - capitalize
 - uncapitalize
 - [truncate](src/truncate.js)
-- surround
+- [surround](src/surround.js)
 - [ltrim](src/ltrim.js)
 - [trim](src/trim.js)
 - [rtrim](src/rtrim.js)
