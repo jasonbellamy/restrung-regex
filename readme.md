@@ -20,7 +20,7 @@ These are the current public functions this library supports.
 - [spaceCase](src/space-case.js)
 - swapCase
 - [capitalize](src/capitalize.js)
-- uncapitalize
+- [uncapitalize](src/uncapitalize.js)
 - [truncate](src/truncate.js)
 - [surround](src/surround.js)
 - [ltrim](src/ltrim.js)
