@@ -19,9 +19,9 @@ These are the current public functions this library supports.
 - snakeCase
 - [spaceCase](src/space-case.js)
 - swapCase
-- capitalize
+- [capitalize](src/capitalize.js)
 - [uncapitalize](src/uncapitalize.js)
-- truncate
+- [truncate](src/truncate.js)
 - [surround](src/surround.js)
 - [ltrim](src/ltrim.js)
 - [trim](src/trim.js)
