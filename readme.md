@@ -30,7 +30,7 @@ These are the current public functions this library supports.
 
 ### Type
 
-- isCamelCase
+- [isCamelCase](src/is-camel-case.js)
 - isCapitalized
 - isPascalCase
 - isSnakeCase
