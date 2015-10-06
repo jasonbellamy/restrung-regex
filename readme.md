@@ -35,7 +35,7 @@ These are the current public functions this library supports.
 - isPascalCase
 - isSnakeCase
 - isSpaceCase
-- isUpperCase
+- [isUpperCase](src/is-upper-case.js)
 
 
 ## License
