@@ -3,6 +3,7 @@ import camelCase from '../src/camel-case.js';
 
 describe('#camelCase', () => {
   it('should camelCase a string', () => {
+    assert.equal(camelCase('helloThere'), 'helloThere');
     assert.equal(camelCase('Hello.there'), 'helloThere');
     assert.equal(camelCase('hello-There'), 'helloThere');
     assert.equal(camelCase('hello_There'), 'helloThere');
