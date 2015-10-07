@@ -16,7 +16,7 @@ These are the current public functions this library supports.
 
 - [camelCase](src/camel-case.js)
 - [pascalCase](src/pascal-case.js)
-- snakeCase
+- [snakeCase](src/snake-case.js)
 - [spaceCase](src/space-case.js)
 - swapCase
 - [capitalize](src/capitalize.js)
