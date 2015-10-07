@@ -32,7 +32,7 @@ These are the current public functions this library supports.
 
 - [isCamelCase](src/is-camel-case.js)
 - isCapitalized
-- isPascalCase
+- [isPascalCase](src/is-pascal-case.js)
 - isSnakeCase
 - isSpaceCase
 - [isUpperCase](src/is-upper-case.js)
