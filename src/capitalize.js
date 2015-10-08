@@ -1,5 +1,5 @@
 const capitalize = (a) => {
-  return a.replace(/(^[a-z])(.+)/, function(match, a, b) {
+  return a.replace(/(^[a-z])(.+)/, (match, a, b) => {
     return a.toUpperCase() + b;
   });
 };
