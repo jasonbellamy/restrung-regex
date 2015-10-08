@@ -1,7 +1,7 @@
 {
   "name": "restrung-regex",
   "description": "JavaScript string helpers built with regular expressions.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/restrung/restrung-regex",
   "author": {
     "name": "Jason Bellamy",
