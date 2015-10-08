@@ -31,7 +31,7 @@ These are the current public functions this library supports.
 ### Type
 
 - [isCamelCase](src/is-camel-case.js)
-- [isCapitalized](src/is-capitalized.js);
+- [isCapitalized](src/is-capitalized.js)
 - [isPascalCase](src/is-pascal-case.js)
 - [isSnakeCase](src/is-snake-case.js)
 - [isSpaceCase](src/is-space-case.js)
