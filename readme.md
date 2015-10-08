@@ -34,7 +34,7 @@ These are the current public functions this library supports.
 - isCapitalized
 - [isPascalCase](src/is-pascal-case.js)
 - [isSnakeCase](src/is-snake-case.js)
-- isSpaceCase
+- [isSpaceCase](src/is-space-case.js)
 - [isUpperCase](src/is-upper-case.js)
 
 
